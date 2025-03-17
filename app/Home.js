@@ -45,7 +45,7 @@ export default function Home() {
     <section className="py-20 px-6 bg-gray-900 text-center">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-4xl md:text-5xl font-bold mb-6 text-green-400">Why Choose Us?</h2>
-        <p className="text-lg text-gray-300 mb-6">At ElevateMakers, we don't just market brands—we elevate them. With cutting-edge analytics and creative storytelling, we ensure your business thrives in the digital landscape.</p>
+        <p className="text-lg text-gray-300 mb-6">At ElevateMakers, we dont just market brands—we elevate them. With cutting-edge analytics and creative storytelling, we ensure your business thrives in the digital landscape.</p>
       </div>
     </section>
 
